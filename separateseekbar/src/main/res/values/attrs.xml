@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SeparateSeekBar">
+        <attr name="textSize" format="dimension"/>
+        <attr name="textCheckedColor" format="color"/>
+        <attr name="textUncheckedColor" format="color"/>
+        <attr name="seekBarColor" format="color"/>
+        <attr name="seekBarHeight" format="dimension"/>
+        <attr name="seekBarCircleRadius" format="dimension"/>
+    </declare-styleable>
+</resources>
